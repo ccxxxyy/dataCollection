@@ -84,7 +84,7 @@
 
 ### 3.1 核心代码
 
-完整代码见 `ai_data_collection.py`，以下为核心部分展示。
+完整代码见 `homework_1/ai_data_collection.py`，以下为核心部分展示。
 
 **数据收集 — 百度百科爬虫：**
 
@@ -128,7 +128,7 @@ def generate_wordcloud(word_freq):
     plt.imshow(wc, interpolation="bilinear")
     plt.title("AI主题文本数据词云图")
     plt.axis("off")
-    plt.savefig("output/ai_wordcloud.png", dpi=200)
+    plt.savefig("homework_1/output/ai_wordcloud.png", dpi=200)
 ```
 
 ### 3.2 依赖安装
@@ -140,7 +140,7 @@ pip install requests beautifulsoup4 jieba wordcloud matplotlib pandas
 ### 3.3 运行方式
 
 ```bash
-python ai_data_collection.py
+python homework_1/ai_data_collection.py
 ```
 
 ---
@@ -170,22 +170,22 @@ python ai_data_collection.py
 
 **图1：AI主题文本数据词云图**
 
-> （见 output/ai_wordcloud.png）
+> （见 homework_1/output/ai_wordcloud.png）
 > 词云图中"人工智能"字体最大，表明其在收集的文本中出现频率最高。其次是"技术""发展""智能""未来""学习""模型"等词，充分反映了AI领域的核心关注点。
 
 **图2：Top 20 高频词柱状图**
 
-> （见 output/ai_top_words_bar.png）
+> （见 homework_1/output/ai_top_words_bar.png）
 > 柱状图清晰展示了排名前20的高频词及其出现次数。"人工智能"以657次遥遥领先，"技术"（398次）和"发展"（309次）紧随其后。
 
 **图3：TF-IDF 关键词权重图**
 
-> （见 output/ai_keyword_weights.png）
+> （见 homework_1/output/ai_keyword_weights.png）
 > TF-IDF算法考虑了词频和逆文档频率，能更好地反映词语的区分性。"人工智能"的TF-IDF权重为0.8530，远高于其他词语，"技术"（0.2578）和"发展"（0.1516）位列其后。
 
 **图4：语义类别分布饼图**
 
-> （见 output/ai_category_pie.png）
+> （见 homework_1/output/ai_category_pie.png）
 > 将AI相关词语按语义分为五大类别：
 > - 技术概念占 55.5%（最大比例，说明收集的文本以技术讨论为主）
 > - 发展趋势占 23.9%（反映对AI发展方向的高度关注）
