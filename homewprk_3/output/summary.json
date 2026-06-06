@@ -1,0 +1,31 @@
+{
+  "chinese_ai": {
+    "n_docs": 75,
+    "svd_energy": 0.21251391417050353
+  },
+  "newsgroups": {
+    "n_docs": 120,
+    "svd_energy": 0.11548986041139876
+  },
+  "outputs": [
+    "chinese_ai_embed_pca.png",
+    "chinese_ai_embed_tsne.png",
+    "chinese_ai_embed_umap.png",
+    "chinese_ai_lda_topics.png",
+    "chinese_ai_lsi_topics.png",
+    "chinese_ai_recommend_demo.txt",
+    "chinese_ai_report.json",
+    "chinese_ai_svd_spectrum.png",
+    "chinese_docs.txt",
+    "newsgroups_docs.txt",
+    "newsgroups_embed_pca.png",
+    "newsgroups_embed_tsne.png",
+    "newsgroups_embed_umap.png",
+    "newsgroups_lda_topics.png",
+    "newsgroups_lsi_topics.png",
+    "newsgroups_recommend_demo.txt",
+    "newsgroups_report.json",
+    "newsgroups_svd_spectrum.png",
+    "summary.json"
+  ]
+}

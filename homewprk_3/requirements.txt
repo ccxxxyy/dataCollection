@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+jieba>=0.34
+scikit-learn>=1.3
+scipy>=1.10
+umap-learn>=0.5
+# gensim 在 Python 3.14 暂无预编译 wheel，本作业用 sklearn + numpy 实现同等 LSA/LDA 流程

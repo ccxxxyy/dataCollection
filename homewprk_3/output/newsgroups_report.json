@@ -1,0 +1,515 @@
+{
+  "dataset": "newsgroups",
+  "n_docs": 120,
+  "svd_energy_ratio": 0.11548986041139876,
+  "lsi_topics": [
+    {
+      "topic_id": 0,
+      "terms": [
+        [
+          "you",
+          0.361172640704009
+        ],
+        [
+          "but",
+          0.1625472147132046
+        ],
+        [
+          "not",
+          0.15119573041161802
+        ],
+        [
+          "can",
+          0.14912073350103433
+        ],
+        [
+          "space",
+          0.1368027203542876
+        ],
+        [
+          "one",
+          0.12689355419711407
+        ],
+        [
+          "people",
+          0.11151297775213485
+        ],
+        [
+          "all",
+          0.11068752619003604
+        ],
+        [
+          "out",
+          0.10858876054597234
+        ],
+        [
+          "just",
+          0.1056130436128854
+        ]
+      ]
+    },
+    {
+      "topic_id": 1,
+      "terms": [
+        [
+          "space",
+          0.31894440533465224
+        ],
+        [
+          "anyone",
+          0.19343744121317522
+        ],
+        [
+          "color",
+          0.17500299226232505
+        ],
+        [
+          "please",
+          0.16825044438155837
+        ],
+        [
+          "email",
+          0.15100538402039457
+        ],
+        [
+          "ftp",
+          0.15035746340765258
+        ],
+        [
+          "thanks",
+          0.1347033205781032
+        ],
+        [
+          "file",
+          0.12028234708769663
+        ],
+        [
+          "mail",
+          0.11851830785026074
+        ],
+        [
+          "nasa",
+          0.11191085991939258
+        ]
+      ]
+    },
+    {
+      "topic_id": 2,
+      "terms": [
+        [
+          "you",
+          0.46571110657269676
+        ],
+        [
+          "using",
+          0.1413726048903305
+        ],
+        [
+          "color",
+          0.11979551040983853
+        ],
+        [
+          "ftp",
+          0.1130012935674768
+        ],
+        [
+          "package",
+          0.10993313860491685
+        ],
+        [
+          "your",
+          0.1069439158222268
+        ],
+        [
+          "surfaces",
+          0.0940686354200618
+        ],
+        [
+          "jpeg",
+          0.08902555810619345
+        ],
+        [
+          "256",
+          0.0854113414161717
+        ],
+        [
+          "site",
+          0.07867909445005765
+        ]
+      ]
+    },
+    {
+      "topic_id": 3,
+      "terms": [
+        [
+          "does",
+          0.3066207225486047
+        ],
+        [
+          "anyone",
+          0.21547102507490673
+        ],
+        [
+          "game",
+          0.16379474137510494
+        ],
+        [
+          "know",
+          0.14691117438806922
+        ],
+        [
+          "where",
+          0.13863829320710602
+        ],
+        [
+          "color",
+          0.12747471811367142
+        ],
+        [
+          "thanks",
+          0.118108893918546
+        ],
+        [
+          "braves",
+          0.11059246485485129
+        ],
+        [
+          "file",
+          0.10458537763614485
+        ],
+        [
+          "mpeg",
+          0.1027275427186873
+        ]
+      ]
+    },
+    {
+      "topic_id": 4,
+      "terms": [
+        [
+          "mercury",
+          0.4009857156252679
+        ],
+        [
+          "explain",
+          0.19264226550797986
+        ],
+        [
+          "orbit",
+          0.18175222199522958
+        ],
+        [
+          "another",
+          0.15763163646326747
+        ],
+        [
+          "now",
+          0.15229134180419382
+        ],
+        [
+          "before",
+          0.13016463429586717
+        ],
+        [
+          "not",
+          0.12938520288620534
+        ],
+        [
+          "does",
+          0.12785529415956934
+        ],
+        [
+          "planet",
+          0.11572885711529297
+        ],
+        [
+          "theory",
+          0.11555747266214304
+        ]
+      ]
+    }
+  ],
+  "lda_topics": [
+    {
+      "topic_id": 0,
+      "terms": [
+        [
+          "you",
+          49.1802739381658
+        ],
+        [
+          "but",
+          39.91318867537418
+        ],
+        [
+          "one",
+          26.27700309783386
+        ],
+        [
+          "out",
+          21.564998229758714
+        ],
+        [
+          "not",
+          21.341919528479163
+        ],
+        [
+          "then",
+          19.529036262995344
+        ],
+        [
+          "can",
+          19.272769684304496
+        ],
+        [
+          "think",
+          18.597030201154915
+        ],
+        [
+          "some",
+          18.53327142150456
+        ],
+        [
+          "all",
+          18.21183650686407
+        ]
+      ]
+    },
+    {
+      "topic_id": 1,
+      "terms": [
+        [
+          "insurance",
+          23.677435138298726
+        ],
+        [
+          "333",
+          21.199999913464037
+        ],
+        [
+          "los",
+          18.196397027752678
+        ],
+        [
+          "pitcher",
+          15.201080502461958
+        ],
+        [
+          "private",
+          15.138210942733316
+        ],
+        [
+          "182",
+          14.199999912843245
+        ],
+        [
+          "bunning",
+          14.199999773038636
+        ],
+        [
+          "she",
+          12.199267652889567
+        ],
+        [
+          "mon",
+          11.202716295916911
+        ],
+        [
+          "short",
+          11.200311707184987
+        ]
+      ]
+    },
+    {
+      "topic_id": 2,
+      "terms": [
+        [
+          "space",
+          82.91971838782108
+        ],
+        [
+          "nasa",
+          30.227502610791955
+        ],
+        [
+          "list",
+          26.081026022819565
+        ],
+        [
+          "please",
+          25.141545943055846
+        ],
+        [
+          "posts",
+          24.194909062232462
+        ],
+        [
+          "sci",
+          22.200268301718687
+        ],
+        [
+          "you",
+          20.242832045506876
+        ],
+        [
+          "information",
+          19.20610259052715
+        ],
+        [
+          "center",
+          18.250948441522976
+        ],
+        [
+          "shuttle",
+          17.20003064293314
+        ]
+      ]
+    },
+    {
+      "topic_id": 3,
+      "terms": [
+        [
+          "you",
+          99.90249228262667
+        ],
+        [
+          "not",
+          56.34909472852917
+        ],
+        [
+          "can",
+          43.51818809823313
+        ],
+        [
+          "space",
+          41.14921322241113
+        ],
+        [
+          "people",
+          36.48910600576192
+        ],
+        [
+          "more",
+          32.27068182206184
+        ],
+        [
+          "all",
+          30.384223986196528
+        ],
+        [
+          "like",
+          28.39191868841226
+        ],
+        [
+          "has",
+          28.331032980896946
+        ],
+        [
+          "one",
+          28.046083630547194
+        ]
+      ]
+    },
+    {
+      "topic_id": 4,
+      "terms": [
+        [
+          "jpeg",
+          233.19998899968078
+        ],
+        [
+          "you",
+          215.16098688226748
+        ],
+        [
+          "image",
+          107.20038136132662
+        ],
+        [
+          "file",
+          92.96449894663455
+        ],
+        [
+          "gif",
+          92.19985675328995
+        ],
+        [
+          "can",
+          81.6481380396385
+        ],
+        [
+          "color",
+          75.19964596047973
+        ],
+        [
+          "not",
+          68.41189400402429
+        ],
+        [
+          "images",
+          68.19918271310111
+        ],
+        [
+          "format",
+          66.09362956056387
+        ]
+      ]
+    }
+  ],
+  "query_doc_id": 0,
+  "query_preview": "And the religious right worships engines, smokestacks, landfills,\nand hates people.\n\nWhat does this name-calling have to",
+  "knn_recommendations": [
+    {
+      "doc_id": 103,
+      "distance": 0.011430240813194437,
+      "preview": "That would not explain why widely separated detectors, such as on Ulysses\nand PVO and Ginga et al., would see a burst at"
+    },
+    {
+      "doc_id": 73,
+      "distance": 0.02372472581798657,
+      "preview": "Hi! Everyone,\n\nBecause no one has touched the problem I posted last week, I guess\nmy question was not so clear. Now I'd "
+    },
+    {
+      "doc_id": 95,
+      "distance": 0.031774124679202154,
+      "preview": "Jobs?  What the hell have jobs to do with it?  It's another touchy-feely \nprogram from the new, vapid administration.  T"
+    },
+    {
+      "doc_id": 119,
+      "distance": 0.03194516009690063,
+      "preview": "There was a very useful article in one of the 1989 issues of\nTransactions On Graphics. I believe Maureen Stone was one o"
+    },
+    {
+      "doc_id": 10,
+      "distance": 0.037288798915474874,
+      "preview": "Hi Everyone--\n\n  It's spend-the-money-before-it-goes-away time here at U.Florida\nand we need to find some PC-based softw"
+    }
+  ],
+  "keyword_hits": [
+    {
+      "doc_id": 36,
+      "score": 0.4420250692577934,
+      "preview": "Archive-name: space/net\nLast-modified: $Date: 93/04/01 14:39:15 $\n\nNETWORK RESOURCES\n\nOVERVIEW\n\n    You may be reading t"
+    },
+    {
+      "doc_id": 101,
+      "score": 0.29931279025868257,
+      "preview": "In fact, you can all direct your ire at the proper target by ingoring NASA \naltogether.  The rocket is a commercial laun"
+    },
+    {
+      "doc_id": 52,
+      "score": 0.28758063094614983,
+      "preview": "Archive-name: space/controversy\nLast-modified: $Date: 93/04/01 14:39:06 $\n\nCONTROVERSIAL QUESTIONS\n\n    These issues per"
+    },
+    {
+      "doc_id": 16,
+      "score": 0.24917384350837776,
+      "preview": "I am posting this for a friend without internet access. Please inquire\nto the phone number and address listed.\n---------"
+    },
+    {
+      "doc_id": 17,
+      "score": 0.16052416898899222,
+      "preview": "Re: Space billboards\n\nEven easier to implement than writing messages on the Moon, once upon\na time a group of space acti"
+    }
+  ]
+}
