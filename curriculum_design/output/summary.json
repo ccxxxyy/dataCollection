@@ -1,0 +1,40 @@
+{
+  "chinese_ai": {
+    "n_docs": 75,
+    "svd_energy": 0.21251391417050353
+  },
+  "newsgroups": {
+    "n_docs": 120,
+    "svd_energy": 0.11548986041139876
+  },
+  "newword_top5": [
+    "技术",
+    "智能",
+    "发展",
+    "研究",
+    "应用"
+  ],
+  "outputs": [
+    "chinese_ai_embed_pca.png",
+    "chinese_ai_embed_tsne.png",
+    "chinese_ai_embed_umap.png",
+    "chinese_ai_lda_topics.png",
+    "chinese_ai_lsi_topics.png",
+    "chinese_ai_svd_spectrum.png",
+    "curriculum_report.json",
+    "hw1_tfidf.png",
+    "hw1_word_freq.png",
+    "hw2_dict_growth.png",
+    "hw2_dict_growth_curve.png",
+    "newsgroups_embed_pca.png",
+    "newsgroups_embed_tsne.png",
+    "newsgroups_embed_umap.png",
+    "newsgroups_lda_topics.png",
+    "newsgroups_lsi_topics.png",
+    "newsgroups_svd_spectrum.png",
+    "newword_burst_index.png",
+    "pipeline_overview.png",
+    "summary.json",
+    "课程设计-陈喜盈(3223004641).docx"
+  ]
+}
